@@ -8,7 +8,7 @@
   <br>
 <a href="https://panagiotissarr.github.io/Project-Cearch/#gsc.tab=0" target="_blank">Yet Another Search Engine</a>.</h4>
 
-![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
+![screenshot](https://github.com/Panagiotissarr/Project-Cearch/blob/main/images/preview.png)
 
 
 ## Why Should I use This Insted of An Other Search Engine
