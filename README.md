@@ -1,12 +1,12 @@
 
 <h1 align="center">
   <br>
-  <a href="http://www.amitmerchant.com/electron-markdownify"><img src=".\images\logo.png" alt="Markdownify" width="200"></a>
+  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://github.com/Panagiotissarr/Project-Cearch/blob/main/images/Logo.png" alt="Project Cearch" width="200"></a>
   <br>
   Project Cearch
 
   <br>
-<a href="https://panagiotissarr.github.io/Project-Cearch/" target="_blank">Yet Another Search Engine</a>.</h4>
+<a href="https://Panagiotissarr.github.io/Project-Cearch/" target="_blank">Yet Another Search Engine</a>.</h4>
 
 <p align="center">
   <a href="https://badge.fury.io/js/electron-markdownify">
