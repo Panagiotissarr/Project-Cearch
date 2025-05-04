@@ -3,13 +3,10 @@
   <br>
   <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.png" alt="Markdownify" width="200"></a>
   <br>
-  Markdownify
-  <br>
-</h1>
+  Project Cearch
 
-<h4 align="center">Project Cearch
   <br>
-<a href="http://panagiotissarris.github.io/Project-Cearch" target="_blank">Yet Another Search Engine</a>.</h4>
+<a href="https://panagiotissarr.github.io/Project-Cearch/" target="_blank">Yet Another Search Engine</a>.</h4>
 
 <p align="center">
   <a href="https://badge.fury.io/js/electron-markdownify">
