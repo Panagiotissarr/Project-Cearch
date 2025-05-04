@@ -8,10 +8,7 @@
   <br>
 <a href="https://Panagiotissarr.github.io/Project-Cearch/" target="_blank">Yet Another Search Engine</a>.</h4>
 
-<p align="center">
-  <a href="https://badge.fury.io/js/electron-markdownify">
-    <img src="https://badge.fury.io/js/electron-markdownify.svg"
-         alt="Gitter">
+
 
 <p align="center">
   <a href="#key-features">Key Features</a> •
