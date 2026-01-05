@@ -25,6 +25,13 @@
   --orange: #ff6d1b;
 }
 
+/* use teh font from ../assets/fonts/Harmond-ExtraBoldExpanded.otf */
+@font-face {
+  font-family: "sugar-magic";
+  src: url("../assets/fonts/sugarmagicpersonaluseonly-jemyo.otf")
+    format("opentype");
+}
+
 html {
   scroll-behavior: smooth;
   overflow-x: hidden;
