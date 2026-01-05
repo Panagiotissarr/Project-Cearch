@@ -1,8 +1,8 @@
 :root {
   color-scheme: light dark;
-  --primary-color: light-dark(#226655, #4850E0);
+  --primary-color: light-dark(#4850E0, #4850E0);
   --text-color: light-dark(#000000, #ffffff);
-  --background-color-primary: light-dark(#ffffff, #000000);
+  --background-color-primary: light-dark(#000000, #ffffff);
   --background-color-secondary: light-dark(#dbdbdb, #303030);
   --background-color-tr: light-dark(#ddddddbb, #55555588);
   --font-size: 16px;
@@ -23,13 +23,6 @@
   --green: #5bff89;
   --yellow: #ffee55;
   --orange: #ff6d1b;
-}
-
-/* use teh font from ../assets/fonts/Harmond-ExtraBoldExpanded.otf */
-@font-face {
-  font-family: "sugar-magic";
-  src: url("../assets/fonts/sugarmagicpersonaluseonly-jemyo.otf")
-    format("opentype");
 }
 
 html {
